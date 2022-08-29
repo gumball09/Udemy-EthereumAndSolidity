@@ -1,0 +1,16 @@
+	inet 127.0.0.1 netmask 0xff000000 
+	inet6 ::1 prefixlen 128 
+	inet6 fe80::1%lo0 prefixlen 64 scopeid 0x1 
+	inet6 fe80::2836:42ff:fe27:e9ee%anpi2 prefixlen 64 scopeid 0x4 
+	inet6 fe80::2836:42ff:fe27:e9ec%anpi0 prefixlen 64 scopeid 0x5 
+	inet6 fe80::2836:42ff:fe27:e9ed%anpi1 prefixlen 64 scopeid 0x6 
+	inet6 fe80::4b5:fd4f:47e4:4ec3%en0 prefixlen 64 secured scopeid 0xe 
+	inet 10.0.0.75 netmask 0xffffff00 broadcast 10.0.0.255
+	inet6 2604:3d08:6d80:3000:6c:fc81:599b:292c prefixlen 64 autoconf secured 
+	inet6 2604:3d08:6d80:3000:458c:5011:64d8:602e prefixlen 64 autoconf temporary 
+	inet6 2604:3d08:6d80:3000::1df8 prefixlen 64 dynamic 
+	inet6 fe80::c14:99ff:feb5:3c4a%awdl0 prefixlen 64 scopeid 0x10 
+	inet6 fe80::c14:99ff:feb5:3c4a%llw0 prefixlen 64 scopeid 0x11 
+	inet6 fe80::a396:e690:dc93:bedd%utun0 prefixlen 64 scopeid 0x12 
+	inet6 fe80::b889:5d14:2209:a352%utun1 prefixlen 64 scopeid 0x13 
+	inet6 fe80::ce81:b1c:bd2c:69e%utun2 prefixlen 64 scopeid 0x14 
